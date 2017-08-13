@@ -35,39 +35,39 @@ Vitamins:
    |   |   |   |   |  4|   |   |   |   |   |   |   |   |   |  4 Aluminium Extrusion BR_20x40 670mm
    |   |  6|   |   |   |   |   |   |   |   |   |   |   |   |  6 Aluminium Extrusion BR_20x40 870mm
    |   |  1|   |   |   |   |   |   |   |   |   |   |   |   |  1 Aluminium Extrusion BR_20x40 990mm
- 24|   |148|   |  4|   |   |   |  4|  2|  2|  4|   |   |   |196 Aluminium Extrusion Twist Nut
-   |   |   |   |   |   |   |   |   |  2|   |  2|   |   |   |  4 Ball bearing 624 4mm x 13mm x 5mm
-   |   |   |   |   |   |   |  8|   |   |  8|   |   |   |   | 16 Ball bearing 625_2RS 5mm x 16mm x 5mm
- 12|   | 40|   |   |   |   |   |   |   |   |   |   |   |   | 52 BR20x20Gusset
-   |   |   |   |   |   |   |   |  1|   |   |   |   |   |   |  1 Belt T2.5 x 6mm x 2185mm
-   |   |   |   |   |   |   |   |   |   |   |   |   | 16|   | 16 M3 cap screw x 20mm
-   |   |   |   |  4|   |   |   |  2|   |   |   |   |   |   | 10 M4 cap screw x 10mm
-   |   |   |   |   |   |   |   |   |  2|  2|   |   |   |   |  4 M4 cap screw x 16mm
- 24|   |148|   |   |   |   |   |  2|   |   |  4|   |   |   |182 M4 cap screw x 8mm
-   |   |   |   |  4|   |   |   |   |   |   |   |   |   |   |  4 M5 cap screw x 20mm
-   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 M5 cap screw x 25mm
-   |   |   |   |   |   |   |  4|   |  4|  4|   |   |   |   | 12 M5 cap screw x 30mm
-   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 DelrinVGrooveWheel:
-   |   |   |   |   |   |   |  2|   |  4|  4|   |   |   |   | 10 M3 hex screw x 16mm
-   |   |   |   |   |   |   |  2|   |   |   |   |   |   |   |  2 M3 hex screw x 25mm
-   |   |   |   |   |   |   |  2|   |   |   |   |   |   |   |  2 M4 hex screw x 20mm
-   |   |   |   |   |   |   |   |   |  1|   |  1|   |   |   |  2 M4 hex screw x 40mm
-   |   |   |   |   |   |   |   | 20|   |   |   |   |   |   | 50 M5 low profile screw x 10mm
-   |   |   |   |   |   |   |   |  1|   |   |   |   |  4|   |  7 NEMA17 x 47mm stepper motor
-   |   |   |   |   |   |   |  4|   |  4|  4|   |   |   |   | 12 Nut M3
-   |   |   |   |  4|   |   |   |   |   |   |   |   |   |   |  4 Nut M5
-   |   |   |   |   |   |   |   |   |   |   |   |   | 16|   | 16 Nyloc nut M3
-   |   |   |   |   |   |   |  2|   |  1|   |  1|   |   |   |  4 Nyloc nut M4
-   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 Nyloc nut M5
-   |   |   |   |   |   |   |  1|   |   |  1|   |   |   |   |  2 OpenRailPlate20:
-   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 OpenRailSpacer:
-   |   |   |   |   |   |   |   |  2|   |   |   |   |   |   |  2 Openrail1000:Openrail 1000mm
-   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  4 Openrail750:Openrail 750mm
-   |   |   |   |   |   |   |   | 20|   |   |   |   |   |   | 50 OpenrailTeeNut:
+ 24|   |148|   |  4|   |   |   |  4|  2|  2|  4|   |   |   |196 Aluminium Extrusion Twist Nut 螺帽
+   |   |   |   |   |   |   |   |   |  2|   |  2|   |   |   |  4 624 滾珠軸承 4mm x 13mm x 5mm  * 4
+   |   |   |   |   |   |   |  8|   |   |  8|   |   |   |   | 16 625_2RS 滾珠軸承 5mm x 16mm x 5mm * 16
+ 12|   | 40|   |   |   |   |   |   |   |   |   |   |   |   | 52 20x20鋁擠型支架 * 52
+   |   |   |   |   |   |   |   |  1|   |   |   |   |   |   |  1 Belt T2.5 x 6mm x 2185mm 皮帶 2.5x6mm 2185mm
+   |   |   |   |   |   |   |   |   |   |   |   |   | 16|   | 16 M3 cap screw x 20mm M3 內六角孔螺絲  20mm長 * 16
+   |   |   |   |  4|   |   |   |  2|   |   |   |   |   |   | 10 M4 cap screw x 10mm M4 內六角孔螺絲  10mm長 * 10
+   |   |   |   |   |   |   |   |   |  2|  2|   |   |   |   |  4 M4 cap screw x 16mm M4 內六角孔螺絲 16mm長 * 4
+ 24|   |148|   |   |   |   |   |  2|   |   |  4|   |   |   |182 M4 cap screw x 8mm M4 內六腳孔螺絲 8mm長 * 182
+   |   |   |   |  4|   |   |   |   |   |   |   |   |   |   |  4 M5 cap screw x 20mm M5 內六腳螺絲 20mm長 * 4
+   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 M5 cap screw x 25mm M5 內六腳螺絲 25mm長 * 8
+   |   |   |   |   |   |   |  4|   |  4|  4|   |   |   |   | 12 M5 cap screw x 30mm M5 內六腳螺絲 30mm長 * 12
+   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 DelrinVGrooveWheel: 導線輪 * 8
+   |   |   |   |   |   |   |  2|   |  4|  4|   |   |   |   | 10 M3 hex screw x 16mm M3 六腳螺絲 16mm長 * 10
+   |   |   |   |   |   |   |  2|   |   |   |   |   |   |   |  2 M3 hex screw x 25mm M3 六腳螺絲 25mm長 * 2
+   |   |   |   |   |   |   |  2|   |   |   |   |   |   |   |  2 M4 hex screw x 20mm M4 六腳螺絲 20mm長 * 2
+   |   |   |   |   |   |   |   |   |  1|   |  1|   |   |   |  2 M4 hex screw x 40mm M4 六腳螺絲 40mm長 * 2
+   |   |   |   |   |   |   |   | 20|   |   |   |   |   |   | 50 M5 low profile screw x 10mm M5 低剖面螺絲 * 50
+   |   |   |   |   |   |   |   |  1|   |   |   |   |  4|   |  7 NEMA17 x 47mm stepper motor NEMA17 x 47mm 步進馬達
+   |   |   |   |   |   |   |  4|   |  4|  4|   |   |   |   | 12 Nut M3 M3螺帽 * 12
+   |   |   |   |  4|   |   |   |   |   |   |   |   |   |   |  4 Nut M5 M5螺帽 * 4
+   |   |   |   |   |   |   |   |   |   |   |   |   | 16|   | 16 Nyloc nut M3 M3 六腳螺帽 * 16
+   |   |   |   |   |   |   |  2|   |  1|   |  1|   |   |   |  4 Nyloc nut M4 M4 耐落六腳螺帽 * 4
+   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 Nyloc nut M5 M5 耐落六腳螺帽 * 8
+   |   |   |   |   |   |   |  1|   |   |  1|   |   |   |   |  2 OpenRailPlate20: 滑塊板20 https://www.thingiverse.com/thing:1195590
+   |   |   |   |   |   |   |  4|   |   |  4|   |   |   |   |  8 OpenRailSpacer: 滑輪 * 8
+   |   |   |   |   |   |   |   |  2|   |   |   |   |   |   |  2 Openrail1000:Openrail 1000mm http://ooznest.co.uk/Open-Rail-1000mm
+   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  4 Openrail750:Openrail 750mm http://ooznest.co.uk/Open-Rail-Linear-Rail?search=openrai
+   |   |   |   |   |   |   |   | 20|   |   |   |   |   |   | 50 OpenrailTeeNut: http://openbuildspartstore.com/tee-nuts-25-pack/
    |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  1 Overall depth = ", 90
    |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  1 Overall height = ", 38
    |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  1 Overall width = ", 119
-   |   |   |   |   |   |   |   |  4|   |   |   |   |   |   | 12 M3 pan screw x 8mm
+   |   |   |   |   |   |   |   |  4|   |   |   |   |   |   | 12 M3 pan screw x 8mm M3十字頭螺絲 8mm * 12 https://www.toolstation.com/shop/Screws+%26+Fixings/d90/Machine+Screws/sd910/Phillips+Pan+Head+Machine+Screw/p16442
    |   |   |   |   |   |   |   |  1|   |   |   |   |   |   |  3 T2.5x18 pulley 18 teeth
    |   |   |   |   |   |   |   |   |   |   |   |   |   |  2|  2 Smooth rod 10mm x 210mm
    |   |   |   |   |   |   |   |   |   |   |   |  2|   |   |  2 Rodlen", 21
